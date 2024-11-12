@@ -1,0 +1,8 @@
+mkdir catarroja alfafar paiporta massanassa
+touch enero febrero marzo
+cd ../alfafar
+cp ../catarroja/enero .
+cd .. # (para ir a dana)
+cp -r catarroja/* paiporta/
+rm paiporta/*ro
+mv catarroja/enero massanassa/
