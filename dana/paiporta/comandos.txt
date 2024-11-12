@@ -1,0 +1,2 @@
+echo 'Día de la semana: Lunes' >> hola
+git pull origin master
